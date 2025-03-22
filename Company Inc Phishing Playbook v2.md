@@ -1,11 +1,3 @@
-#  
-
-# 
-
-# 
-
-# 
-
 # Sample Phishing Playbook
 
 ## *\<Company Inc\>*
